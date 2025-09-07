@@ -3,3 +3,8 @@ build/
 dist/
 .env
 .DS_Store
+node_modules/
+build/
+dist/
+.env
+.DS_Store
